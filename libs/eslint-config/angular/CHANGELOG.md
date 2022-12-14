@@ -2,6 +2,12 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## 0.0.1 (2022-12-14)
+
+### Bug Fixes
+
+- **eslint-config-angular:** move @pellegrims/eslint-config-base to dependencies ([5be9c68](https://github.com/rathpc/pellegrims/commit/5be9c6805724d80de198583642a74f235a418c6d))
+
 ## [0.0.4](https://github.com/robinpellegrims/pellegrims/compare/eslint-config-angular-0.0.3...eslint-config-angular-0.0.4) (2022-11-27)
 
 ## [0.0.3](https://github.com/robinpellegrims/pellegrims/compare/eslint-config-angular-0.0.2...eslint-config-angular-0.0.3) (2022-11-13)
