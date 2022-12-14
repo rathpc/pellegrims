@@ -2,6 +2,12 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## 0.0.1 (2022-12-14)
+
+### Bug Fixes
+
+- **eslint-config-base:** fix package name ([3901957](https://github.com/rathpc/pellegrims/commit/3901957855000c22eceba76e389a2722d74e29b6))
+
 ## [0.0.4](https://github.com/robinpellegrims/pellegrims/compare/eslint-config-base-0.0.3...eslint-config-base-0.0.4) (2022-11-27)
 
 ## [0.0.3](https://github.com/robinpellegrims/pellegrims/compare/eslint-config-base-0.0.2...eslint-config-base-0.0.3) (2022-11-13)
