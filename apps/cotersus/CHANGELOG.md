@@ -2,6 +2,17 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+# 0.1.0 (2022-12-14)
+
+### Bug Fixes
+
+- **cotersus:** logo is not horizontally aligned ([2f40a57](https://github.com/rathpc/pellegrims/commit/2f40a5760fcb15427e760536c1583eaf8836bb3b))
+
+### Features
+
+- **cotersus:** add seo ([7f29345](https://github.com/rathpc/pellegrims/commit/7f293451c8d109502cb5815cd576a4df1478af39))
+- **cotersus:** initial commit ([8a45254](https://github.com/rathpc/pellegrims/commit/8a45254a27e7f4618c60c0ee885fe52f41cec2fe))
+
 ## [0.1.5](https://github.com/robinpellegrims/pellegrims/compare/cotersus-0.1.4...cotersus-0.1.5) (2022-12-13)
 
 ### Bug Fixes
